@@ -1,0 +1,13 @@
+/* Custom Navbar Text Color */
+.custom-navbar-text {
+    color: #6a0dad; /* Replace with your preferred color */
+}
+
+.custom-navbar-link {
+    color: #6a0dad; /* Replace with your preferred color */
+    transition: color 0.3s ease; /* Optional: Smooth transition for hover */
+}
+
+.custom-navbar-link:hover {
+    color: #4b0082; /* Change color on hover */
+}

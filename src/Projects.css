@@ -1,0 +1,11 @@
+.project-image {
+    width: 100%; /* Make images responsive */
+    max-height: 600px; /* Set a max height */
+    object-fit: contain; /* Cover the area without distortion */
+    border-radius: 8px; /* Optional: add rounded corners */
+  }
+  
+  /* Optional: you can adjust the container styles as needed */
+  .projects-section {
+    padding: 60px 0; /* Adjust top and bottom padding */
+  }
